@@ -40,7 +40,7 @@ Application Python permettant d'évaluer la robustesse d'un mot de passe selon p
 
 ### 🗺️ Projets SIG
 Projets personnels autour de la cartographie, des données géographiques et de l'analyse spatiale.
-
+**Technologies :** Python • QGIS • SIG
 ---
 
 ## 🎯 Centres d'intérêt
