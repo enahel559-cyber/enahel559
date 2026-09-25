@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Bonjour, je suis Helena
+# 👋 Bonjour, je suis ELINA
 
 ### 🌍 Lycéenne • Python • SIG • Cartographie • Environnement
 
