@@ -59,7 +59,7 @@ Développer mes compétences dans l'utilisation des outils numériques et des do
 pour mieux comprendre les territoires et les problématiques environnementales.
 <div align="center">
 
-# 👋 Bonjour, je suis Helena
+# 👋 Bonjour, je suis ELINA
 
 ### 🌍 Lycéenne • Python • SIG • Cartographie • Environnement
 
