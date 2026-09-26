@@ -100,6 +100,19 @@ Je développe progressivement mes compétences en Python, SIG, cartographie et a
 ---
 
 ## 🚀 Mes projets
+### 🌱 GreenPulse — Renewable Energy Potential
+A Python-based project that explores renewable energy potential
+by analyzing different environmental and geographic parameters.
+
+The current prototype calculates a simplified potential score
+based on solar irradiance, roof area, terrain slope, distance
+to the electrical network and temperature.
+
+**Technologies:** Python, Streamlit, Pandas, Folium
+
+**Planned V3:** integration of QGIS and real geographic data
+for spatial analysis and a more realistic renewable-energy
+potential map.
 
 ### 🌦️ Application météo en Python
 Application météo avec interface graphique et récupération de données météorologiques via une API.
@@ -118,11 +131,12 @@ Projets personnels autour de la cartographie, des données géographiques et de 
 
 ## 🎯 Centres d'intérêt
 
-🌍 Géographie et environnement  
-🗺️ SIG et cartographie  
-🐍 Programmation Python  
-📊 Analyse de données  
-🌱 Technologies appliquées à l'environnement
+ 🐍 Python programming 
+- 🌱 Renewable energy
+- 🗺️ GIS and geographic data
+- 📊 Data analysis
+- 💻 Scientific and technical projects
+
 
 ---
 
